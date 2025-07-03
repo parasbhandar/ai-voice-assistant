@@ -1,0 +1,80 @@
+[
+  {
+    "domain": ".huggingface.co",
+    "expirationDate": 1776363588,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "__stripe_mid",
+    "path": "/",
+    "sameSite": "strict",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "46d53bae-38be-4851-a6c1-c959f2e87714ddb4c4"
+  },
+  {
+    "domain": ".huggingface.co",
+    "expirationDate": 1744829388,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "__stripe_sid",
+    "path": "/",
+    "sameSite": "strict",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "635d8750-2ca4-45b7-bd5c-4569ccd7838a4c4a14"
+  },
+  {
+    "domain": "huggingface.co",
+    "expirationDate": 1776363140.777052,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "token",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "JlMcauOmfSbMDuUbSukIMXkyrsWqgzTeharanpfmgiFhCRPjumjCOeTwCyKOSgSyBfRvCobujErLjXaeoJSXiTssDwGeyAsstZxmNmbcFfHkvDBgUnwKmSQtwXpYYwdI"
+  },
+  {
+    "domain": "huggingface.co",
+    "expirationDate": 1746037251.58662,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "hf-chat",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "e980ed39-fdb2-4031-ba0e-456a21f2ebe0"
+  },
+  {
+    "domain": ".huggingface.co",
+    "expirationDate": 1776363588.855578,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "datadome",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "wxXh1akjw_1Ul6bE0KfAUmy~puFt9qa8yoG6MJzRf_DAt1nYVgWBVtiXj5m~qxlOD~4aFoofxvHajOcl~v5C9RJrr9tTYH3oObPrSGIb~RAti8RFYZE8vQW8jkoync1P"
+  },
+  {
+    "domain": ".huggingface.co",
+    "expirationDate": 1745173191,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "aws-waf-token",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "b5a66ad5-b51a-41ce-a671-ca52bcc87ab2:BQoAkzB/pDkqAQAA:2q1IdincxW0fVftsxeltbjIZ+OLSoKdLvtFYDSHuAP9OpKgyggJQ1AhLIipb85G2M2pss9DlWd0UL9No/QRMljapnytPlYE/PRbTriEuZGYOC/tdqzHncj0brabcr4vg6C6fbVi4erpv9rsuk6rCMf9pxbG4rgCeqrWPavONSTDAK9R3eHfJpzABH84H1t9Dby8wkmnycBjsPsNboqOPP6JHzkA6dmivBAUtfKwHA7hQcIGqriN0mfFEAEGdSjoURqTouvcH4TuYinHA9uA="
+  }
+]
